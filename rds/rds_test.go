@@ -1,9 +1,9 @@
 package rds_test
 
 import (
-	"github.com/crowdmob/goamz/aws"
-	"github.com/crowdmob/goamz/rds"
-	"github.com/crowdmob/goamz/testutil"
+	"github.com/qpingu/goamz/aws"
+	"github.com/qpingu/goamz/rds"
+	"github.com/qpingu/goamz/testutil"
 	"launchpad.net/gocheck"
 	"testing"
 )

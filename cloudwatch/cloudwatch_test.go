@@ -1,9 +1,9 @@
 package cloudwatch_test
 
 import (
-	"github.com/crowdmob/goamz/aws"
-	"github.com/crowdmob/goamz/cloudwatch"
-	"github.com/crowdmob/goamz/testutil"
+	"github.com/qpingu/goamz/aws"
+	"github.com/qpingu/goamz/cloudwatch"
+	"github.com/qpingu/goamz/testutil"
 	"launchpad.net/gocheck"
 	"testing"
 )

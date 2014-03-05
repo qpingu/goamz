@@ -1,7 +1,7 @@
 package dynamodb_test
 
 import (
-	"github.com/crowdmob/goamz/dynamodb"
+	"github.com/qpingu/goamz/dynamodb"
 	"launchpad.net/gocheck"
 	"time"
 )
